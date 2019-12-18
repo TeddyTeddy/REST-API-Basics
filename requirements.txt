@@ -6,3 +6,4 @@ pytz==2017.3
 psycopg2-binary
 gunicorn	
 dj-database-url
+django-heroku
