@@ -25,7 +25,7 @@ SECRET_KEY = '#dwnkamm8yyak86#%hz#z2^3hlr*3@r1t*d$4ypvh%voedv_sf'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['glacial-earth-31542.herokuapp.com']
 
 
 # Application definition
