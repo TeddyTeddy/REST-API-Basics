@@ -4,4 +4,5 @@ djangorestframework-jwt==1.11.0
 PyJWT==1.5.3
 pytz==2017.3
 psycopg2-binary
-gunicorn
+gunicorn	
+dj-database-url
