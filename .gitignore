@@ -110,3 +110,6 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+.idea/
+=3.9.1
